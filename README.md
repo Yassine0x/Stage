@@ -32,7 +32,7 @@ Plateforme e-commerce développée avec Laravel (back-end) et React (front-end),
 
 ```bash
 git clone https://github.com/Yassine0x/Stage.git
-cd ecommerce-project
+cd stage
 ```
 
 ### Configuration Backend
